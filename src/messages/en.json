@@ -1,0 +1,147 @@
+{
+  "nav": {
+    "home": "Home",
+    "services": "Services",
+    "henna": "Henna",
+    "gallery": "Gallery",
+    "booking": "Booking",
+    "about": "About & Contact",
+    "bookNow": "Book Now",
+    "langSwitch": "عربي"
+  },
+  "hero": {
+    "subtitle": "Ladies Salon",
+    "title": "Your Beauty, Our Passion",
+    "description": "Experience premium beauty services in a luxurious, private, women-only environment in the heart of Al Ain.",
+    "cta": "Book Your Appointment",
+    "ctaSecondary": "Explore Services"
+  },
+  "welcome": {
+    "badge": "Women Only",
+    "title": "Welcome to Mizhi",
+    "description": "At Mizhi Ladies Salon, we believe every woman deserves to feel beautiful. Our skilled team of professionals is dedicated to providing exceptional beauty services in a comfortable, private setting exclusively for women.",
+    "location": "Located in Al Mu'tarid - Hai Hazaa Mosque, Al Ain",
+    "services": "50+ Beauty Services",
+    "experience": "Expert Beauticians"
+  },
+  "servicesPreview": {
+    "badge": "Our Services",
+    "title": "Beauty Services Tailored for You",
+    "description": "From head to toe, we offer a comprehensive range of beauty treatments designed to make you look and feel your best.",
+    "viewAll": "View All Services",
+    "startingFrom": "Starting from"
+  },
+  "signature": {
+    "badge": "Most Popular",
+    "title": "Signature Treatments",
+    "description": "Our most loved treatments, chosen by our clients for exceptional results.",
+    "bookThis": "Book This"
+  },
+  "homeVsSalon": {
+    "badge": "Flexible Service",
+    "title": "Your Comfort, Your Choice",
+    "homeService": "Home Service",
+    "homeDesc": "Enjoy our professional beauty services in the comfort of your own home. Perfect for henna, bridal packages, and group bookings.",
+    "salonService": "Salon Service",
+    "salonDesc": "Visit our beautifully designed salon in Al Mu'tarid for the full pampering experience with all our premium equipment and products.",
+    "homeFeatures": ["Professional beauticians at your doorstep", "Ideal for parties & bridal events", "Available for henna & select services", "Flexible scheduling"],
+    "salonFeatures": ["Full range of 50+ services", "Premium salon equipment", "Relaxing salon ambience", "Walk-in & appointment available"]
+  },
+  "testimonials": {
+    "badge": "Client Love",
+    "title": "What Our Ladies Say",
+    "items": [
+      {
+        "text": "Mizhi is my go-to salon! The staff is incredibly professional and the atmosphere makes me feel so relaxed. Their facials are absolutely amazing.",
+        "author": "Sarah A.",
+        "service": "Regular Client"
+      },
+      {
+        "text": "Best henna service in Al Ain! They came to my home for my engagement party and every design was stunning. Highly recommend their home service.",
+        "author": "Fatima K.",
+        "service": "Henna Client"
+      },
+      {
+        "text": "The hair treatments here are top notch. My hair has never looked better after the protein treatment. The team really knows what they're doing.",
+        "author": "Aisha M.",
+        "service": "Hair Client"
+      }
+    ]
+  },
+  "bookingCta": {
+    "title": "Ready to Look Your Best?",
+    "description": "Book your appointment now via phone or WhatsApp",
+    "callUs": "Call Us",
+    "whatsapp": "WhatsApp Us"
+  },
+  "servicesPage": {
+    "title": "Our Services & Prices",
+    "description": "Transparent pricing for all our premium beauty treatments. All prices are in AED.",
+    "all": "All",
+    "bookService": "Book",
+    "aed": "AED",
+    "from": "from"
+  },
+  "hennaPage": {
+    "title": "Henna Services",
+    "description": "Beautiful, intricate henna designs for every occasion. Available both at our salon and as home service.",
+    "homeService": "Home Service",
+    "salonService": "Salon Service",
+    "hand": "Hand Designs",
+    "leg": "Leg Designs",
+    "gallery": "Henna Gallery",
+    "bookHenna": "Book Henna"
+  },
+  "galleryPage": {
+    "title": "Our Gallery",
+    "description": "See the beautiful transformations and artistry from our talented team.",
+    "all": "All",
+    "face": "Face",
+    "hair": "Hair",
+    "nails": "Nails",
+    "henna": "Henna"
+  },
+  "bookingPage": {
+    "title": "Book Your Appointment",
+    "description": "Fill out the form below or reach us directly via phone or WhatsApp for instant booking.",
+    "serviceType": "Service Type",
+    "selectCategory": "Select Category",
+    "selectService": "Select Service",
+    "serviceMode": "Service Mode",
+    "salon": "At Salon",
+    "home": "Home Service",
+    "preferredDate": "Preferred Date",
+    "preferredTime": "Preferred Time",
+    "yourName": "Your Name",
+    "phoneNumber": "Phone Number",
+    "email": "Email (Optional)",
+    "notes": "Special Notes",
+    "submit": "Request Booking",
+    "orContact": "Or Contact Us Directly",
+    "submitted": "Thank you! We'll confirm your booking soon.",
+    "quickBook": "Quick Book via WhatsApp"
+  },
+  "aboutPage": {
+    "title": "About Mizhi",
+    "story": "Mizhi Ladies Salon was founded with a simple vision — to create a beautiful, private sanctuary where women can relax, rejuvenate, and feel their absolute best. Located in the heart of Al Mu'tarid, Al Ain, our salon is designed to provide a luxurious and comfortable experience for every client.",
+    "womenOnly": "Women-Only Environment",
+    "womenOnlyDesc": "Your privacy and comfort are our top priority. Mizhi is an exclusively women-only salon, ensuring a safe and relaxing space for all our clients.",
+    "team": "Our Team",
+    "teamDesc": "Our team of skilled beauticians brings years of experience and a passion for beauty to every treatment.",
+    "contactTitle": "Get in Touch",
+    "contactDesc": "We'd love to hear from you. Reach out for bookings, inquiries, or feedback.",
+    "sendMessage": "Send Message",
+    "yourMessage": "Your Message",
+    "findUs": "Find Us",
+    "hours": "Business Hours",
+    "hoursValue": "10:00 AM – 12:00 AM (Midnight), Every Day"
+  },
+  "footer": {
+    "tagline": "Premium women-only beauty salon in Al Ain, UAE.",
+    "quickLinks": "Quick Links",
+    "contactInfo": "Contact Info",
+    "followUs": "Follow Us",
+    "rights": "All rights reserved.",
+    "address": "Zayed Bin Sultan St - Al Mu'tarid - Hai Hazaa Mosque - Al Ain"
+  }
+}

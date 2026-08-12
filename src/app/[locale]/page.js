@@ -250,7 +250,6 @@ function WelcomeSection({ locale, isRtl }) {
               <div style={{ display: 'flex', gap: '1.5rem', flexWrap: 'wrap' }}>
                 {[
                   { icon: <Image src="/images/location.png" alt="Location" width={20} height={20} unoptimized />, text: t('location') },
-                  { icon: <Image src="/images/location.png" alt="Location" width={20} height={20} unoptimized />, text: isRtl ? businessInfo.locations[1].nameAr : businessInfo.locations[1].name },
                   { icon: <Image src="/images/Beauty Services.png" alt="Beauty Services" width={20} height={20} unoptimized />, text: t('services') },
                   { icon: <Image src="/images/Expert Beauticians.png" alt="Expert Beauticians" width={20} height={20} unoptimized />, text: t('experience') },
                 ].map((stat, i) => (

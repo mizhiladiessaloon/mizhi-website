@@ -181,14 +181,6 @@ export const businessInfo = {
       addressAr: 'شارع زايد بن سلطان - المعترض - مسجد حي هزاع - العين',
       mapsLink: 'https://maps.app.goo.gl/9qjAAD88j5UZnwfJ8?g_st=iwb',
       mapsEmbed: 'https://www.google.com/maps?q=Mizhi+Ladies+Salon,+Hai+Hazaa+Mosque,+Al+Ain&z=15&output=embed',
-    },
-    {
-      name: 'Oryx Grand Hotel Jebel Hafeet Al Ain',
-      nameAr: 'فندق أوريكس جراند جبل حفيت العين',
-      address: 'Oryx Grand Hotel Jebel Hafeet Al Ain',
-      addressAr: 'فندق أوريكس جراند جبل حفيت العين',
-      mapsLink: 'https://maps.app.goo.gl/6EdFXSRoZiokTc4g9',
-      mapsEmbed: 'https://www.google.com/maps?q=Mizhi+Ladies+Salon+Al+Ain&z=15&output=embed',
-    },
+
   ],
 };

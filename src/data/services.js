@@ -181,6 +181,6 @@ export const businessInfo = {
       addressAr: 'شارع زايد بن سلطان - المعترض - مسجد حي هزاع - العين',
       mapsLink: 'https://maps.app.goo.gl/9qjAAD88j5UZnwfJ8?g_st=iwb',
       mapsEmbed: 'https://www.google.com/maps?q=Mizhi+Ladies+Salon,+Hai+Hazaa+Mosque,+Al+Ain&z=15&output=embed',
-
+    }
   ],
 };

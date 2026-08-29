@@ -275,7 +275,7 @@ function WelcomeSection({ locale, isRtl }) {
             <GlassCard style={{ padding: '0.75rem', maxWidth: '650px', width: '100%', margin: '0 auto' }}>
               <div style={{ borderRadius: '14px', overflow: 'hidden', position: 'relative' }}>
                 <Image
-                  src="/images/Mizhi.jpg"
+                  src="/images/Mizhi.webp"
                   alt="Welcome to Mizhi Ladies Salon"
                   width={1200}
                   height={900}
@@ -410,7 +410,7 @@ function ServicesPreviewSection({ locale, isRtl }) {
                   boxShadow: '0 4px 12px rgba(212, 168, 67, 0.15)',
                   border: '2px solid #fff'
                 }}>
-                  <Image src="/images/henna.jpg" alt="Henna Services" fill style={{ objectFit: 'cover' }} />
+                  <Image src="/images/henna.webp" alt="Henna Services" fill style={{ objectFit: 'cover' }} />
                 </div>
                 <h3 style={{
                   fontFamily: isRtl ? 'var(--font-arabic)' : 'var(--font-heading)',

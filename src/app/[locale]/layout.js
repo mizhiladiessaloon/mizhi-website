@@ -59,7 +59,7 @@ export default async function LocaleLayout({ children, params }) {
     },
     openingHours: 'Mo-Su 10:00-00:00',
     priceRange: 'AED 10 - AED 350',
-    image: '/images/team.jpg',
+    image: '/images/team.webp',
     url: 'https://mizhisalon.ae',
   };
 

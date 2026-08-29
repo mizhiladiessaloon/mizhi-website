@@ -55,7 +55,7 @@ function ServicesPageInner({ locale }) {
       }}>
         <div style={{ position: 'absolute', inset: 0, zIndex: 0 }}>
           <Image 
-            src="/images/bg_image.png" 
+            src="/images/bg_image.webp" 
             alt="Services Background" 
             fill 
             style={{ objectFit: 'cover' }} 

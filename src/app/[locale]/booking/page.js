@@ -162,7 +162,7 @@ export default function BookingPage({ params }) {
         position: 'relative',
         paddingTop: '9rem',
         paddingBottom: '5rem',
-        background: 'linear-gradient(rgba(255, 251, 242, 0.75), rgba(232, 213, 163, 0.85)), url("/images/booking page bg.png") center/cover no-repeat',
+        background: 'linear-gradient(rgba(255, 251, 242, 0.75), rgba(232, 213, 163, 0.85)), url("/images/booking page bg.webp") center/cover no-repeat',
         textAlign: 'center',
         overflow: 'hidden',
       }}>
@@ -385,7 +385,7 @@ export default function BookingPage({ params }) {
                 <GlassCard intensity="strong" hover={false} style={{ padding: '0.5rem', overflow: 'hidden', flex: 1, display: 'flex' }}>
                   <div style={{ borderRadius: '14px', overflow: 'hidden', width: '100%', minHeight: '300px' }}>
                     <Image
-                      src="/images/booking page img.jpg"
+                      src="/images/booking page img.webp"
                       alt="Mizhi Ladies Salon"
                       width={600}
                       height={800}

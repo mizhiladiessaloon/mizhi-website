@@ -25,7 +25,7 @@ export default function HennaPage({ params }) {
         position: 'relative',
         paddingTop: '9rem',
         paddingBottom: '5rem',
-        background: 'linear-gradient(rgba(255, 251, 242, 0.75), rgba(232, 213, 163, 0.85)), url("/images/henna services.png") center/cover no-repeat',
+        background: 'linear-gradient(rgba(255, 251, 242, 0.75), rgba(232, 213, 163, 0.85)), url("/images/henna services.webp") center/cover no-repeat',
         textAlign: 'center',
         overflow: 'hidden',
       }}>
@@ -261,7 +261,7 @@ export default function HennaPage({ params }) {
               gridTemplateColumns: 'repeat(auto-fit, minmax(250px, 1fr))',
               gap: '1.25rem',
             }}>
-              {['/images/henna-1.jpg', '/images/henna-2.png', '/images/henna-3.png', '/images/henna-4.jpg'].map((src, i) => (
+              {['/images/henna-1.webp', '/images/henna-2.webp', '/images/henna-3.webp', '/images/henna-4.webp'].map((src, i) => (
                 <GlassCard key={i} style={{ padding: '0.5rem' }}>
                   <div style={{ borderRadius: '14px', overflow: 'hidden', aspectRatio: '1' }}>
                     <Image

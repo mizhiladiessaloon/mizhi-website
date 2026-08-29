@@ -58,7 +58,7 @@ export default function AboutPage({ params }) {
         position: 'relative',
         paddingTop: '9rem',
         paddingBottom: '5rem',
-        background: 'linear-gradient(rgba(255, 251, 242, 0.75), rgba(232, 213, 163, 0.85)), url("/images/about page.png") center/cover no-repeat',
+        background: 'linear-gradient(rgba(255, 251, 242, 0.75), rgba(232, 213, 163, 0.85)), url("/images/about page.webp") center/cover no-repeat',
         textAlign: 'center',
         overflow: 'hidden',
       }}>
@@ -144,7 +144,7 @@ export default function AboutPage({ params }) {
               <GlassCard style={{ padding: '0.75rem', maxWidth: '500px', margin: '0 auto' }}>
                 <div style={{ borderRadius: '14px', overflow: 'hidden', position: 'relative' }}>
                   <Image
-                    src="/images/team.jpg"
+                    src="/images/team.webp"
                     alt="Mizhi Ladies Salon Team"
                     width={800}
                     height={600}

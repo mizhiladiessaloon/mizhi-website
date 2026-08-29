@@ -69,8 +69,8 @@ export const services = {
     id: 'waxing',
     titleEn: 'Waxing',
     titleAr: 'الشمع',
-    icon: '/images/bleaching.webp',
-    image: '/images/bleaching.webp',
+    icon: '/images/Waxing.webp',
+    image: '/images/Waxing.webp',
     items: [
       { id: 'fullface-waxing', nameEn: 'Fullface Waxing', nameAr: 'شمع الوجه بالكامل', price: 60 },
       { id: 'half-hand-waxing', nameEn: 'Half Hand Waxing', nameAr: 'شمع نصف اليد', price: 40 },

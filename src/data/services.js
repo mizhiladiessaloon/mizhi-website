@@ -159,8 +159,8 @@ export const businessInfo = {
   email: 'info@mizhisalon.ae',
   address: "Zayed Bin Sultan St - Al Mu'tarid - Hai Hazaa Mosque - Al Ain",
   addressAr: 'شارع زايد بن سلطان - المعترض - مسجد حي هزاع - العين',
-  hours: '10:00 AM – 12:00 AM',
-  hoursAr: '١٠:٠٠ صباحاً – ١٢:٠٠ منتصف الليل',
+  hours: '10:00 AM – 10:00 PM',
+  hoursAr: '١٠:٠٠ صباحاً – ١٠:٠٠ مساءً',
   coordinates: { lat: 24.2209472, lng: 55.7430132 },
   plusCode: '6PCP+96G',
   social: {

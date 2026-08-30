@@ -57,7 +57,7 @@ export default async function LocaleLayout({ children, params }) {
       latitude: businessInfo.coordinates.lat,
       longitude: businessInfo.coordinates.lng,
     },
-    openingHours: 'Mo-Su 10:00-00:00',
+    openingHours: 'Mo-Su 10:00-22:00',
     priceRange: 'AED 10 - AED 350',
     image: '/images/team.webp',
     url: 'https://mizhisalon.ae',

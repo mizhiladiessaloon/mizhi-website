@@ -13,6 +13,9 @@ export const metadata = {
     ],
     shortcut: '/images/logo.webp',
   },
+  verification: {
+    google: '2HfIfxTBA83grv00X3Co3as1qdvO19N-ft6ruT3ez3I',
+  },
   openGraph: {
     title: 'Mizhi Ladies Salon | Premium Beauty Salon in Al Ain, UAE',
     description: 'Premium women-only beauty salon in Al Mu\'tarid, Al Ain. Expert facials, hair, henna, nails & more.',
